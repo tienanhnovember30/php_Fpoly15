@@ -1,0 +1,87 @@
+.aa {
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+  background-color: #006ae9;
+
+  font-weight: bolder;
+}
+.aa:hover {
+  color: white;
+  background-color: #044ba1;
+}
+.til-admin {
+  font-size: 28px;
+  font-weight: bold;
+}
+.div-admin {
+  padding: 20px;
+  background-color: white;
+}
+.div-admin-danhmuc {
+  float: left;
+  width: 600px;
+  padding: 20px;
+  background-color: white;
+}
+.danhmuc_right {
+  position: relative;
+  margin-left: 20px;
+  float: left;
+  width: 400px;
+  padding: 20px;
+  background-color: white;
+}
+
+.table-admin {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border: none;
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.table-admin th {
+  border-bottom: 2px solid #e9ecef;
+}
+.table-admin td {
+  max-width: 150px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  padding: 10px;
+  text-align: left;
+  font-size: 15px;
+  color: #303030;
+  border-bottom: 1px solid #d5d8db;
+  white-space: nowrap;
+}
+
+.td-edit-admin {
+  padding: 10px;
+
+  margin: 10px;
+}
+.pt-user {
+  margin-top: 20px;
+}
+
+.box-form {
+  background-color: white;
+
+  padding: 30px;
+}
+.input-admin {
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  width: 100%;
+}
+.p-form-admin {
+  color: black ;
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+.chitiet > .aa:hover {
+
+ 
+  opacity: 77%;
+}

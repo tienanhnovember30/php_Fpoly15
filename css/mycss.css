@@ -1,0 +1,53 @@
+.mua{
+    line-height:35px; max-width: 100px; height: 30px;
+    padding: 7px;
+    border-radius: 9px;
+    background: #f3064d;
+    color: white;
+    font-size: 15px;
+    transition: .8s;
+}
+.mua:hover{
+    background-color: #00f8d7;
+    color: white;
+}
+.mua2{
+padding: 7px;
+border-radius: 9px;
+background: #0adafb;
+color: white;
+font-size: 15px;
+line-height:35px;
+max-width: 100px; 
+height: 30px;
+}
+.mua2:hover{
+    background-color: #00d3f8;
+    color: white;
+}
+.gia-sp{
+    font-size: 14px; 
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-family: Noto Sans,AdihausDIN,Helvetica,Arial,sans-serif!important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+.ten-sp{
+margin-top: 15px; 		
+width: 257px;
+font-size: 16px;
+display: block;
+text-transform: uppercase;	white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;   
+color: #f00909;
+font-weight: 500;
+line-height: 1.2 !important; 
+}
+
+
+
+
+
